@@ -35,25 +35,25 @@ Dengan kata lain, Proteus Out merupakan jembatan dari sistem Gajah Mada ke layan
 
 == Informasi Teknis
 
-<<docs/proteus-out/url-proteus-out.adoc#, System URL Proteus Out>>
+<<proteus-out/url-proteus-out.adoc#, System URL Proteus Out>>
 
-<<docs/proteus-out/architecture-proteus-out.adoc#, Architecture Proteus Out>>
+<<proteus-out/architecture-proteus-out.adoc#, Architecture Proteus Out>>
 
-<<docs/proteus-out/technology-proteus-out.adoc#, Technology Proteus Out>>
+<<proteus-out/technology-proteus-out.adoc#, Technology Proteus Out>>
 
-<<docs/proteus-out/environment-proteus-out.adoc#, Environment Proteus Out>>
+<<proteus-out/environment-proteus-out.adoc#, Environment Proteus Out>>
 
-<<docs/proteus-out/database-proteus-out.adoc#, Database Documentation Proteus Out>>
+<<proteus-out/database-proteus-out.adoc#, Database Documentation Proteus Out>>
 
-<<docs/proteus-out/release-deploy-proteus-out.adoc#, Release and Deployment Proteus Out>>
+<<proteus-out/release-deploy-proteus-out.adoc#, Release and Deployment Proteus Out>>
 
 
 == *Onboarding Information*
 
-<<docs/proteus-out/dev-onboarding-proteus-out.adoc#, Developer Onboarding Proteus Out>>
+<<proteus-out/dev-onboarding-proteus-out.adoc#, Developer Onboarding Proteus Out>>
 
 == *Dokumentasi*
 
-<<docs/proteus-out/api-doc-proteus-out.adoc#, API Documentation Proteus Out>>
+<<proteus-out/api-doc-proteus-out.adoc#, API Documentation Proteus Out>>
 
 <<proteus-out/release-note-proteus-out.adoc#, Release Note Proteus Out>>

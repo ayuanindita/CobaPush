@@ -6,4 +6,3 @@ https://app.swaggerhub.com/apis/SERPUL/PROTEUS_OUT/1.0.0[API Documentation]
 
  Untuk dapat mengakses API Documentation, harus masuk kedalam grup swaggerhub SERPUL.
 
-

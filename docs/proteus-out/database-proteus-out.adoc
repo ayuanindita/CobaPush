@@ -1,0 +1,5 @@
+= Database
+
+Berikut adalah _database_ yang digunakan pada sistem Proteus Out:
+
+image::./images/erd-proteus-out.png[ERD Proteus Out]

@@ -20,4 +20,4 @@ jobs:
       env:
           username: ${{ secrets.Username_Anin }}
           password: ${{ secrets.Password_Anin }}
-      run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-coba.xml -Dusername=$username -Dpassword=$password
+      run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-proteusout.xml -Dusername=$username -Dpassword=$password

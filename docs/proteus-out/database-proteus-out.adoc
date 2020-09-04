@@ -1,4 +1,4 @@
-= Database
+= Database Proteus Out
 
 Berikut adalah _database_ yang digunakan pada sistem Proteus Out:
 

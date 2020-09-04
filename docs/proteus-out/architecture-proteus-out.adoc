@@ -1,6 +1,6 @@
-= Arsitektur Sistem
+= Arsitektur Sistem Proteus Out
 
-== High Level Architecture
+== High Level Architecture Proteus Out
 
 Berikut adalah gambar dari _High Level Architecture_ dan _Web Service_ dari sistem Proteus Out:
 

@@ -1,4 +1,4 @@
-= Technology
+= Technology Proteus Out
 
 Berikut merupakan teknologi yang digunakan pada sistem Proteus Out:
 

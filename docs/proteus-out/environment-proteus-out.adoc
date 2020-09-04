@@ -1,4 +1,4 @@
-= Environment
+= Environment Proteus Out
 
 Berikut adalah environment yang digunakan pada sistem Proteus Out:
 
